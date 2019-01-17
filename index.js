@@ -9,7 +9,7 @@ end
 function johnLennonFacts (expert, toequal){
 const result = []
 while (i < 4) {
-  text += "foo!!!" + i;
-  i++;){
+  text += "expert" + i;
+  i++;){ result.push(`${expert[i]} )
 
 }
