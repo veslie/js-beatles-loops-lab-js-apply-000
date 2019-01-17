@@ -8,3 +8,7 @@ end
 
 function johnLennonFacts
 const result = []
+while (var i = 0 i < 10) {
+  text += "The number is " + i;
+  i++;
+}
