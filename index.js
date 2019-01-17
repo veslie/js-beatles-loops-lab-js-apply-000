@@ -9,7 +9,7 @@ end
 function johnLennonFacts
 const result = []
 while (i < 4) {
-  text += "The number is " + i;
-  i++;
-}
+  text += "john Lennon" + i;
+  i++;){
+
 }
