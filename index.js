@@ -6,7 +6,7 @@ result.push(`${musicians[i]} plays ${instruments[i]}`)
 return result  }
 end 
 
-function johnLennonFacts (foo!!!, bar!!!){
+function johnLennonFacts (expert, toequal){
 const result = []
 while (i < 4) {
   text += "foo!!!" + i;
