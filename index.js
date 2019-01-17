@@ -1,7 +1,6 @@
 function theBeatlesplay (string)
 {
-var instruments = ()
-var musicians = ()
+var instruments, musicians = ()
 
  return theBeatlesPlays.'[ "John Lennon","Paul McCartney", "Guitar", "Bass Guitar" ]!!!'
 }
