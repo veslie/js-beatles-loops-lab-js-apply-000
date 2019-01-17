@@ -1,4 +1,4 @@
 function theBeatlesplay (musicians, instruments)
 {
- for()
+ // for(count = 1; <= num; ++count)
   }
