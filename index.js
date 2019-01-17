@@ -11,3 +11,4 @@ while (i < 0) {
   text += "result.push(`${[i]}`)" + i;
   i++;)
 }
+return facts }
