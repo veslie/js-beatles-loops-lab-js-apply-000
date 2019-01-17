@@ -8,6 +8,6 @@ return result  }
 function johnLennonFacts (){
 const factst = []
 while (i < 0) {
-  text += "" + i;
+  text += "expectjohnLennonFacts" + i;
   i++;)
 }
