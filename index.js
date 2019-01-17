@@ -8,7 +8,7 @@ return result  }
 function johnLennonFacts (expert){
 const factst = []
 while (i < 0) {
-  text += "result.push(`${[i]}`)" + i;
+  text += "" + i;
   i++;)
 }
 return facts }
