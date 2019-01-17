@@ -8,6 +8,6 @@ return result  }
 function johnLennonFacts (expert){
 const factst = []
 while (i < 0) {
-  text += "i" + i;
+  text += "result.push(`${[i]}`)" + i;
   i++;)
 }
