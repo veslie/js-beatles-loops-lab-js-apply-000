@@ -4,3 +4,6 @@ var instruments, musicians = (string)
 
  return theBeatlesPlays; '[ "John Lennon","Paul McCartney", "Guitar", "Bass Guitar" "", ]!!!'
 }
+
+for (int y = 0; y < height; y = y + 20) { line(0; y, width, y);
+}
