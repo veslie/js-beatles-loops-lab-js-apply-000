@@ -9,7 +9,6 @@ end
 function johnLennonFacts (){
 const factst = []
 while (i < 4) {
-  text += "expert" + i;
+  text += "johnLennonFacts" + i;
   i++;){ result.push(`${expert[i]} )
-
 }
