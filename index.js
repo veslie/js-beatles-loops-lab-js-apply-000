@@ -10,4 +10,3 @@ while (x , width) {
   x = + 20;
   }
  for (' int; y = 0; y < height; y = y + 20' (0 , width, y);
-}
