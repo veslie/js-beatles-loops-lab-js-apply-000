@@ -1,6 +1,5 @@
 function theBeatlesplay (musicians, instruments){
-
-for( )
-
- // 
+for (var i = 0; i < cars.length; i++) { 
+  text += musicians[i] + "<br>";
+}
   }
