@@ -7,6 +7,6 @@ return result  }
 
 function johnLennonFacts (){
 const factst = []
-while (i < 4) {
+while (i < 0) {
   text += "" + i;
   i++;)
