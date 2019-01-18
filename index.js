@@ -6,8 +6,7 @@ result.push(`${musicians[i]} plays ${instruments[i]}`)
 return result  }
 
 function johnLennonFacts (facts){
-const result = []
-var i
+var result = []
 while (i < 0) {
   text += "!!!" + i;
   i++;)
