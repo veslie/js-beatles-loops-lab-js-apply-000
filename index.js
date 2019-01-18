@@ -5,10 +5,10 @@ result.push(`${musicians[i]} plays ${instruments[i]}`)
 }
 return result  }
 
-function johnLennonFacts (){
+function johnLennonFacts (expert){
 const facts = []
 while (i < 0) {
-  text += "experts" + i;
+  text += "expert" + i;
   i++;){
     facts.push(`${facts[i]} !!!`)
   }
