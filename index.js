@@ -8,8 +8,8 @@ return result  }
 function johnLennonFacts (){
 const facts = []
 while (i < 0) {
-  text += "" + i;
-  i++;) {
+  text += "experts" + i;
+  i++;){
     facts.push(`${facts[i]} !!!`)
   }
 }
