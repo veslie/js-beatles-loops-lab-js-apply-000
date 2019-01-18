@@ -8,7 +8,7 @@
   });
 
  describe('johnLennonFacts', function(){
- it("returns an array of strings with exclamation points", function() {
+ it("cvar text = "";", function() {
       expect(johnLennonFacts([
         "He was the last Beatle to learn to drive",
         "He was never a vegetarian",
