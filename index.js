@@ -8,7 +8,7 @@ return result  }
 function johnLennonFacts (expert){
 const result = []
 var i
-while (i = 0; i < expert) {
+while (i < 0) {
   text += "!!!" + i;
   i++;)
 }
