@@ -8,9 +8,9 @@ return result  }
 function johnLennonFacts (expert){
 const result = []
 while (i < 0) {
-  text += "expert" + i;
+  text += "Expert" + i;
   i++;){
-    result.push(`${expert[i]} !!!`)
+    result.push(`${Expert[i]} !!!`)
   }
 }
 return result }
